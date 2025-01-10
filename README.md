@@ -10,5 +10,5 @@ Obstacles: Randomly generated obstacles that the player must jump over or avoid.
 Simple Controls: Easy-to-use controls for a smooth gaming experience.
 Technologies Used
 HTML5: For structuring the game elements.
-CSS3: For styling the game and creating animations.
+CSS3: This is used to style the game and create animations.
 JavaScript (ES6+): For game logic, character movement, obstacle generation, and score tracking.
